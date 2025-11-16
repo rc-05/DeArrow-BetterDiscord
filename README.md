@@ -10,6 +10,9 @@ titles.
 Grab the `DeArrow.plugin.js` script file and place it inside BetterDiscord's
 plugin folder then enable it.
 
+Or download the latest release and unzip the `DeArrow.plugin.js` file into
+the BetterDiscord's plugin folder.
+
 ## License
 This project is licensed with the WTFPL license. See the COPYING file for
 details.
